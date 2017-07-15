@@ -23,6 +23,15 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
 
 Does it work well?
 
+测试加上编号的公式
+
+$$
+\begin{equation}
+m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
+\end{equation} 
+$$
+
+I refer you to e\eqref{eq:one}.
 
 
 ### 代码高亮，图片显示
