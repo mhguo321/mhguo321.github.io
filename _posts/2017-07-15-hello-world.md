@@ -33,8 +33,6 @@ $$
 
 I refer you to Eq\eqref{eq:one}.
 
-测试加上自动编号的公式
-
 $$
 \begin{equation}
 E = mc^2 \tag{1}\label{eq:mck1}
