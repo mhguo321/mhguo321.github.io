@@ -12,7 +12,7 @@ mathjax:    true
 
 This is the first blog. Some basic functions will be added and tested here one by one.
 
-## MathJax Latex
+### MathJax Latex
 
 
 This is a latex equation $$ \int_a^b f(x)\,dx $$. Is it OK?
@@ -25,9 +25,19 @@ Is it OK?
 
 
 
-## Highlight codes
+### Highlight codes
 
-javascript
+matlab example:
+
+```Matlab
+some code
+some more code
+```
+
+Is it OK?
+---
+
+javascript example:
 
 {% highlight javascript %}
 
@@ -43,7 +53,7 @@ javascript
 
 {% endhighlight %}
 
-plain
+plain example
 
 ```
 $$ \int_a^b f(x)\,dx $$ #Inline公式
