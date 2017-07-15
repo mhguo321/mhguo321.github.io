@@ -29,7 +29,7 @@ Is it OK?
 
 Example 1: Maltab
 
-{% highlight matlab%}
+{% highlight matlab %}
 
 clear;clc;close all; % matlab
 aH = 120;aL = 100;c = 10;b = 1;
@@ -108,6 +108,7 @@ text(x4E-3, y4E-6, '$B$',...
     'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 
 {% endhighlight %}
+
 
 Example 2: Javascript
 
