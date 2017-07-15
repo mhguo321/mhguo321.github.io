@@ -29,8 +29,9 @@ Is it OK?
 
 Example 1: Maltab
 
-```Matlab
-clear;clc;close all;
+{% highlight matlab%}
+
+clear;clc;close all; % matlab
 aH = 120;aL = 100;c = 10;b = 1;
 rho1 = 0.99;
 rho2 = 0.00;
@@ -105,7 +106,8 @@ text(x3E-1, y3E+6, '$A$',...
     'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 text(x4E-3, y4E-6, '$B$',...
     'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
-```
+
+{% endhighlight %}
 
 Example 2: Javascript
 
@@ -123,23 +125,6 @@ Example 2: Javascript
 
 {% endhighlight %}
 
-Example 0: matlab
-
-{% highlight matlab%}
-
-// matlab
-clear;clc;close all;
-aH = 120;aL = 100;c = 10;b = 1;
-rho1 = 0.99;
-rho2 = 0.00;
-ubar = 3000;
-p1 = 0:1:120;
-p2 = 0:0.1:75;
-% Some functions
-funL = @(rho,p)(rho*aH+(1-rho)*aL+b*c-2*b*p);
-funR = @(rho,p,ubar)((rho.*b.*ubar.*(aH-aL))./(aL-b.*p).^2);
-
-{% endhighlight %}
 
 Example 3: Plain
 
