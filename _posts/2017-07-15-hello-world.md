@@ -23,7 +23,7 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
 
 Does it work well?
 
-测试加上编号的公式
+测试加上自定义编号的公式
 
 $$
 \begin{equation}
@@ -32,6 +32,16 @@ m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
 $$
 
 I refer you to e\eqref{eq:one}.
+
+测试加上自动编号的公式
+
+$$
+\begin{equation}
+E = mc^2 \label{eq:mck}
+\end{equation} 
+$$
+
+I refer you to e\eqref{eq:mck}.
 
 
 ### 代码高亮，图片显示
