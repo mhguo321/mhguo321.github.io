@@ -158,6 +158,9 @@ png 格式
 
 {% endhighlight %}
 
+此处引用网络图片：
+
+![AI](http://static3.businessinsider.com/image/5661d93edd0895060c8b48ae/the-best-science-fiction-as-picked-by-20-ai-experts.jpg)
 
 例3： 普通代码
 
