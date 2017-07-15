@@ -10,7 +10,7 @@ mathjax:    true
 
 # Hello world!
 
-此为第一篇，下面将陆续测试一些基本功能。
+此为第一篇，本文将用于测试一些基本功能。
 
 ### $$Latex$$数学公式，MathJax
 
@@ -111,13 +111,11 @@ text(x4E-3, y4E-6, '$B$',...
 
 下面为上面Maltab代码的运行结果图：
 
-
+jpg 格式
 ![test_001](/media/image/test.jpg)
 
-> 加入本地图片的Markdown 代码为
-```
-![test_001](/media/image/test.jpg)
-```
+emf 格式
+![test_001](/media/image/test.emf)
 
 例2: Javascript
 
