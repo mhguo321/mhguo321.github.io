@@ -10,24 +10,24 @@ mathjax:    true
 
 # Hello world!
 
-This is the first blog. Some basic functions will be added here and tested one by one.
+此为第一篇，下面将陆续测试一些基本功能。
 
-### MathJax Latex
+### $$Latex$$数学公式，MathJax
 
 
-This is an example that a latex equation just after context, $$ \int_a^b f(x)\,dx $$. Is it OK?
+这是段落内的$$Latex$$数学公式测试， $$ \int_a^b f(x)\,dx $$. Does it work well?
 
-Sometimes, we need to write a latex equation in the middle of a new line, like this:
+有时候，需要的是段落间的$$Latex$$数学公式，比如下面的这个：
 
 $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
 
-Is it OK?
+Does it work well?
 
 
 
-### Highlight codes
+### 代码高亮，图片显示
 
-Example 1: Maltab
+例1: Maltab
 
 {% highlight matlab %}
 
@@ -109,11 +109,17 @@ text(x4E-3, y4E-6, '$B$',...
 
 {% endhighlight %}
 
-And this is the output of this maltab code
+下面为上面Maltab代码的运行结果图：
+
 
 ![test_001](/media/image/test.jpg)
 
-Example 2: Javascript
+> 加入本地图片的Markdown 代码为
+```
+![test_001](/media/image/test.jpg)
+```
+
+例2: Javascript
 
 {% highlight javascript %}
 
@@ -130,7 +136,7 @@ Example 2: Javascript
 {% endhighlight %}
 
 
-Example 3: Plain
+例3： 普通代码
 
 ```
 $$ \int_a^b f(x)\,dx $$ #Inline公式
@@ -146,3 +152,4 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)\,dx $$
 \\[ f(x,y,z) = 3y^2 z \left( 3 + \frac{7x+5}{1 + y^2} \right). \\]
 ```
 
+## 未完待续。。。
