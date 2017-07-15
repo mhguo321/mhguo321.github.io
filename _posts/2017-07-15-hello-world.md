@@ -27,7 +27,7 @@ Is it OK?
 
 ### Highlight codes
 
-matlab example:
+Example 1: Maltab
 
 ```Matlab
 clear;clc;close all;
@@ -107,10 +107,7 @@ text(x4E-3, y4E-6, '$B$',...
     'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 ```
 
-Is it OK?
-
-
-javascript example:
+Example 2: Javascript
 
 {% highlight javascript %}
 
@@ -126,7 +123,25 @@ javascript example:
 
 {% endhighlight %}
 
-plain example
+Example 0: matlab
+
+{% highlight matlab%}
+
+// matlab
+clear;clc;close all;
+aH = 120;aL = 100;c = 10;b = 1;
+rho1 = 0.99;
+rho2 = 0.00;
+ubar = 3000;
+p1 = 0:1:120;
+p2 = 0:0.1:75;
+% Some functions
+funL = @(rho,p)(rho*aH+(1-rho)*aL+b*c-2*b*p);
+funR = @(rho,p,ubar)((rho.*b.*ubar.*(aH-aL))./(aL-b.*p).^2);
+
+{% endhighlight %}
+
+Example 3: Plain
 
 ```
 $$ \int_a^b f(x)\,dx $$ #Inline公式
