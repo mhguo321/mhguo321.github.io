@@ -10,7 +10,7 @@ mathjax:    true
 
 # Hello world!
 
-This is the first blog. Some basic functions will be added and tested here one by one.
+This is the first blog. Some basic functions will be added here and tested one by one.
 
 ### MathJax Latex
 
@@ -109,6 +109,9 @@ text(x4E-3, y4E-6, '$B$',...
 
 {% endhighlight %}
 
+And this is the output of this maltab code
+
+![test_001](/media/image/test.jpg)
 
 Example 2: Javascript
 
