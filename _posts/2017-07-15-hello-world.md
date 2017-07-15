@@ -114,8 +114,8 @@ text(x4E-3, y4E-6, '$B$',...
 jpg 格式
 ![test_001](/media/image/test.jpg)
 
-emf 格式
-![test_001](/media/image/test.emf)
+png 格式
+![test_001](/media/image/test.png)
 
 例2: Javascript
 
