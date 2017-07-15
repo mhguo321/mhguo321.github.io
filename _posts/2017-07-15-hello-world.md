@@ -31,17 +31,25 @@ m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
 \end{equation} 
 $$
 
-I refer you to e\eqref{eq:one}.
+I refer you to Eq\eqref{eq:one}.
 
 测试加上自动编号的公式
 
 $$
 \begin{equation}
-E = mc^2 \label{eq:mck}
+E = mc^2 \tag{1}\label{eq:mck1}
 \end{equation} 
 $$
 
-I refer you to e\eqref{eq:mck}.
+此处引用公式 Eq\eqref{eq:mck1}.
+
+$$
+\begin{equation}
+F = ma \tag{2}\label{eq:mck2}
+\end{equation} 
+$$
+
+此处引用公式 Eq\eqref{eq:mck2}.
 
 
 ### 代码高亮，图片显示
