@@ -12,8 +12,7 @@ mathjax:    true
 
 此为第一篇，本文将用于测试一些基本功能。
 
-### $$Latex$$数学公式，MathJax
-
+### $$Latex$$ Math formula
 
 这是段落内的$$Latex$$数学公式测试， $$ \int_a^b f(x)\,dx $$. Does it work well?
 
@@ -136,9 +135,6 @@ text(x4E-3, y4E-6, '$B$',...
 
 下面为上面Maltab代码的运行结果图：
 
-jpg 格式
-![test_001](/media/image/test.jpg)
-
 png 格式
 ![test_001](/media/image/test.png)
 
@@ -177,5 +173,16 @@ $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)\,dx $$
 
 \\[ f(x,y,z) = 3y^2 z \left( 3 + \frac{7x+5}{1 + y^2} \right). \\]
 ```
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->D;
+  B-->C;
+  D-->C;
+```
+
+
+@[Haroopad](https://www.youtube.com/watch?v=0xjwftBTVWM "width:100%;height:350px")
 
 ## 未完待续。。。
