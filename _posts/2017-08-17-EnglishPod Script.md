@@ -24,3 +24,12 @@ tags: [English]
 
 ------
 ## 0002: Calling in Sick
+***M***: Hello, Daniel speaking. May I help you?
+***July***: Hi, Daniel. Julia here. ...cough...
+Hi, Juli. How are you?
+Actually, I am feeling quite ill today. 
+Oh. I am sorry to hear that. What's wrong?. 
+I think I am coming down with a flu. I have a headache, sort of throat. running of nose. I ... likely feverish. 
+Oh, I see. so you are calling in sick.
+I was hoping to take the day off. 
+OK then try to get some rest.
