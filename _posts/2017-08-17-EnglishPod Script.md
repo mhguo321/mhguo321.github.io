@@ -20,16 +20,21 @@ tags: [English]
 ***C***: You know what. I will just go grab a burger across the street.
 
 ------
- Notes:
 
 ------
 ## 0002: Calling in Sick
 ***M***: Hello, Daniel speaking. May I help you?
-***July***: Hi, Daniel. Julia here. ...cough...
-Hi, Juli. How are you?
-Actually, I am feeling quite ill today. 
-Oh. I am sorry to hear that. What's wrong?. 
-I think I am coming down with a flu. I have a headache, sort of throat. running of nose. I ... likely feverish. 
-Oh, I see. so you are calling in sick.
-I was hoping to take the day off. 
-OK then try to get some rest.
+***Julia***: Hi, Daniel. Julia here. ...cough...
+***M***: Hi, Juli. How are you?
+***Julia***:Actually, I am feeling **quite ill** today. 
+***M***: Oh. I am sorry to hear that. What's wrong?
+***Julia***:I think I am **coming down with flu**. I have a headache, ___**sore throat**___, **a runny nose**. I am feeling **slightly feverish**. 
+***M***: Oh, I see. so you are calling in sick.
+***Julia***:I was hoping to **take the day off to recover**.
+***M***: OK then try to get some rest.
+
+------
+
+------
+
+## 0003: 
