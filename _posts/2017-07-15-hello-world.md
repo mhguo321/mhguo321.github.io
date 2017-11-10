@@ -12,7 +12,7 @@ mathjax:    true
 
 此为第一篇，本文将用于测试一些基本功能。
 
-### $$Latex$$ Math formula
+### $Latex$ Math formula
 
 这是段落内的$$Latex$$数学公式测试， $$ \int_a^b f(x)\,dx $$. Does it work well?
 
@@ -153,6 +153,10 @@ png 格式
 </script>
 
 {% endhighlight %}
+
+此处引用百度网盘中的图片
+
+![AI](https://pan.baidu.com/s/1dE3NaOL)
 
 此处引用网络图片：
 
