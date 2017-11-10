@@ -154,9 +154,7 @@ png 格式
 
 {% endhighlight %}
 
-此处引用百度网盘中的图片
 
-![AI](https://pan.baidu.com/s/1dE3NaOL)
 
 此处引用网络图片：
 
