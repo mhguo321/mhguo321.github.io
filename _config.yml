@@ -13,6 +13,7 @@ gems:
   - jekyll-sitemap
 
 markdown: kramdown
+theme: minima
 kramdown:
   input: GFM                       # use Github Flavored Markdown !important
   auto_id_prefix: 'heading-'
