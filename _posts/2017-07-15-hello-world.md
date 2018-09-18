@@ -23,32 +23,34 @@ mathjax:    true
 
 # 2. 列表
 只需要在文字前面加上 - 就可以
-无序标题：
+
+## a. 无序标题：
 
 > - 文本1
 > - 文本2
 > - 文本3
 
-有序列表：
+## b. 有序列表：
+
 > 1. text
 > 2. text
 > 3. text
 
 # 3. 图片和链接
 
+@[Haroopad](https://www.youtube.com/watch?v=0xjwftBTVWM "width:100%;height:350px")
+@[IronMan](https://www.google.com)
 ![](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/eb661ea7-40d5-4b66-b28d-0096e51c4b61.jpg)
 
 # 4. Latex公式：Latex
 
-1. 段落内公式
-
-### Latex Math formula
+## a. 段落内公式
 
 这是段落内的Latex数学公式测试，\int_a^b f(x)\,dx. 
 
 Does it work well?
 
-2. 段落间无编号公式
+## b. 段落间无编号公式
 
 有时候，需要的是段落间的Latex数学公式，比如下面的这个：
 
@@ -56,7 +58,7 @@ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx
 
 Does it work well?
 
-3. 段落间带自定义编号的公式
+## c. 段落间带自定义编号的公式
 
 测试加上自定义编号的公式
 
@@ -87,7 +89,7 @@ $$
 
 # 5. 代码高亮，图片显示
 
-例1: Maltab
+## 例1: Maltab
 
 {% highlight matlab %}
 
@@ -169,12 +171,12 @@ text(x4E-3, y4E-6, '$B$',...
 
 {% endhighlight %}
 
-下面为上面Maltab代码的运行结果图：
+### 例1运行结果：
 
 png 格式
-![test_001](/media/image/test.png)
+![test_001](https://github.com/mhguo321/mhguo321.github.io/blob/master/media/image/test.png)
 
-例2: Javascript
+## 例2: Javascript
 
 {% highlight javascript %}
 
@@ -192,11 +194,7 @@ png 格式
 
 
 
-此处引用网络图片：
-
-
-
-例3： 普通代码
+## 例3： 普通代码
 
 ```
 $$ \int_a^b f(x)\,dx $$ #Inline公式
