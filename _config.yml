@@ -44,7 +44,7 @@ home:
 blog:
   #cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
   #cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
-  footer_content:  "Make Things that Really Work and Others want them"
+  footer_content:  "Make Things that Really Work and Others Want Them"
 
 disqus:
   shortname: it is a shortname
