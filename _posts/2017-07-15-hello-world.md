@@ -8,15 +8,17 @@ tags: [MathJax]
 mathjax:    true
 ---
 
-# Hello world!
+# Hello world! 
+
+# It's a test!
 
 此为第一篇，本文将用于测试一些基本功能。
 
-### $Latex$ Math formula
+### Latex Math formula
 
-这是段落内的$$Latex$$数学公式测试， $$ \int_a^b f(x)\,dx $$. Does it work well?
+这是段落内的Latex数学公式测试，  \int_a^b f(x)\,dx . Does it work well?
 
-有时候，需要的是段落间的$$Latex$$数学公式，比如下面的这个：
+有时候，需要的是段落间的Latex数学公式，比如下面的这个：
 
 $$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
 
@@ -27,7 +29,7 @@ Does it work well?
 $$
 \begin{equation}
 m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
-\end{equation} 
+\end{equation}
 $$
 
 I refer you to Eq\eqref{eq:one}.
@@ -119,17 +121,17 @@ set(gca,'xticklabels',{'$0$','$c$','${a_L}/{b}$'});
 
 % % the static texts
 text(70, 55, '$y_1\!\!=\!\!\frac{\rho (a_H-a_L)b \bar u}{(a_L-bp)^2}$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',14)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',14)
 text(58, 20, '$y_2\!\!=\!\!\rho a_H\!\!+\!\!(\!1\!-\!\rho\!)a_L\!\!+\!\!bc-\!\!\!2bp$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',12)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',12)
 text(pcE+5, y1pcE, '$\rho a_H\!\!+\!\!(\!1\!-\!\rho\!)a_L\!\!-\!\!\!bc$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',12)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',12)
 text(pcE+2, y2pcE+10, '$\frac{\rho (a_H-a_L)b \bar u}{(a_L-bc)^2}$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 text(x3E-1, y3E+6, '$A$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 text(x4E-3, y4E-6, '$B$',...
-    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
+​    'Interpreter','Latex', 'fontweight', 'bold','fontsize',15)
 
 {% endhighlight %}
 
