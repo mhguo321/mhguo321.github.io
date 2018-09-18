@@ -42,9 +42,9 @@ home:
   #section2: <h2>ask why before the what and how</h2>
   #section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
 blog:
-  cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
-  cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
-  footer_content:  "make things that really work and others want them"
+  #cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
+  #cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
+  footer_content:  "Make Things that Really Work and Others want them"
 
 disqus:
   shortname: it is a shortname
