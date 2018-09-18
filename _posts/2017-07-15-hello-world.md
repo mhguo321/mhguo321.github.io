@@ -173,7 +173,7 @@ text(x4E-3, y4E-6, '$B$',...
 ### 例1运行结果：
 
 png 格式
-![test_001](https://github.com/mhguo321/mhguo321.github.io/blob/master/media/image/test.png)
+![test_001](./media/image/test.png)
 
 ## 例2: Javascript
 
