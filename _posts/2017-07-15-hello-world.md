@@ -39,6 +39,7 @@ mathjax:    true
 # 3. 图片和链接
 
 @[IronMan](https://en.wikipedia.org/wiki/Iron_Man_(2008_film))
+
 ![](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/eb661ea7-40d5-4b66-b28d-0096e51c4b61.jpg)
 
 # 4. Latex公式：Latex
@@ -173,7 +174,7 @@ text(x4E-3, y4E-6, '$B$',...
 ### 例1运行结果：
 
 png 格式
-![test_001](./media/image/test.png)
+![test_001](media/image/test.png)
 
 ## 例2: Javascript
 
