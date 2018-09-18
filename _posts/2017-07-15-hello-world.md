@@ -8,21 +8,55 @@ tags: [MathJax]
 mathjax:    true
 ---
 
-# Hello world! 
+# Hello world! It's a test!
 
-# It's a test!
+本文用于Markdown功能测试与总结：
 
-此为第一篇，本文将用于测试一些基本功能。
+# 1. 支持6级递进标题
+只需要在文本前面加上 # 即可
+># 一级标题
+>## 二级标题
+>### 三级标题
+>#### 四级标题
+>##### 五级标题
+>###### 六级标题
+
+# 2. 列表
+只需要在文字前面加上 - 就可以
+无序标题：
+
+> - 文本1
+> - 文本2
+> - 文本3
+
+有序列表：
+> 1. text
+> 2. text
+> 3. text
+
+# 3. 图片和链接
+
+![](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/eb661ea7-40d5-4b66-b28d-0096e51c4b61.jpg)
+
+# 4. Latex公式：Latex
+
+1. 段落内公式
 
 ### Latex Math formula
 
-这是段落内的Latex数学公式测试，  \int_a^b f(x)\,dx . Does it work well?
+这是段落内的Latex数学公式测试，\int_a^b f(x)\,dx. 
+
+Does it work well?
+
+2. 段落间无编号公式
 
 有时候，需要的是段落间的Latex数学公式，比如下面的这个：
 
-$$ F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx $$
+F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx
 
 Does it work well?
+
+3. 段落间带自定义编号的公式
 
 测试加上自定义编号的公式
 
@@ -32,12 +66,12 @@ m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
 \end{equation}
 $$
 
-I refer you to Eq\eqref{eq:one}.
+I refer you to Eq\eqref{eq:one}
 
 $$
 \begin{equation}
 E = mc^2 \tag{1}\label{eq:mck1}
-\end{equation} 
+\end{equation}
 $$
 
 此处引用公式 Eq\eqref{eq:mck1}.
@@ -45,13 +79,13 @@ $$
 $$
 \begin{equation}
 F = ma \tag{2}\label{eq:mck2}
-\end{equation} 
+\end{equation}
 $$
 
 此处引用公式 Eq\eqref{eq:mck2}.
 
 
-### 代码高亮，图片显示
+# 5. 代码高亮，图片显示
 
 例1: Maltab
 
@@ -160,7 +194,7 @@ png 格式
 
 此处引用网络图片：
 
-![AI](http://static3.businessinsider.com/image/5661d93edd0895060c8b48ae/the-best-science-fiction-as-picked-by-20-ai-experts.jpg)
+
 
 例3： 普通代码
 
