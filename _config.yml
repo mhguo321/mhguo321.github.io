@@ -27,12 +27,12 @@ anchorjs: true
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Minhuan's Blog
-description: "The Simple Works"
+title: Minhuan
+description: 
 timezone: Asia/Shanghai
 #keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name: minhuan
+  name: Minhuan
   job_title: job_title
   location: location
   email: 
@@ -44,7 +44,7 @@ home:
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License
   cc_license_image: /assets/images/theme/cc-by-sa.png # Choose one at https://creativecommons.org/choose/
-  footer_content: good good study and day day up 
+  footer_content:  "Make things that really work and others want them"
 
 disqus:
   shortname: it is a shortname
