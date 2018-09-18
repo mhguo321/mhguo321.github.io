@@ -27,7 +27,7 @@ anchorjs: true
 # Site Data
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
-title: Minhuan
+title: Minhuan's Blog
 description: 
 timezone: Asia/Shanghai
 #keywords: 'jekyll,theme,gem-based,blog'
