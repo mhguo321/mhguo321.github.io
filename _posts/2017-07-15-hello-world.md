@@ -173,7 +173,6 @@ text(x4E-3, y4E-6, '$B$',...
 
 ### 例1运行结果：
 
-png 格式
 ![test_001](/media/image/test.png)
 
 ## 例2: Javascript
@@ -218,7 +217,5 @@ graph TD;
   D-->C;
 ```
 
-
-@[Haroopad](https://www.youtube.com/watch?v=0xjwftBTVWM "width:100%;height:350px")
 
 ## 未完待续。。。
