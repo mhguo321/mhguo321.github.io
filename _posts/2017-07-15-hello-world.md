@@ -38,8 +38,7 @@ mathjax:    true
 
 # 3. 图片和链接
 
-@[Haroopad](https://www.youtube.com/watch?v=0xjwftBTVWM "width:100%;height:350px")
-@[IronMan](https://www.google.com)
+@[IronMan](https://en.wikipedia.org/wiki/Iron_Man_(2008_film))
 ![](https://dz7u9q3vpd4eo.cloudfront.net/wp-content/legacy/posts/eb661ea7-40d5-4b66-b28d-0096e51c4b61.jpg)
 
 # 4. Latex公式：Latex
