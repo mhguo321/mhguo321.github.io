@@ -64,7 +64,7 @@ Does it work well?
 
 $$
 \begin{equation}
-m\ddot{x} + c\dot{x}+kx = 0 \tag{abc}\label{eq:one}
+m\ddot{x} + c\dot{x}+kx = 0 
 \end{equation}
 $$
 
@@ -72,15 +72,19 @@ I refer you to Eq\eqref{eq:one}
 
 $$
 \begin{equation}
-E = mc^2 \tag{1}\label{eq:mck1}
+E = mc^2 \tag{1}
 \end{equation}
 $$
 
 此处引用公式 Eq\eqref{eq:mck1}.
 
 $$
+x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}
+$$
+
+$$
 \begin{equation}
-F = ma \tag{2}\label{eq:mck2}
+F = ma \lable{eq:a}
 \end{equation}
 $$
 
