@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hello World!"
-date: 2017-7-15
+title: "Hello World Test"
+date: 2018-9-15
 description: "Render latex in Github with MathJax and Jekyll"
 categories: [Working]
 tags: [MathJax]
