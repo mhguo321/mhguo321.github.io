@@ -64,15 +64,15 @@ Does it work well?
 
 $$
 \begin{equation}
-m\ddot{x} + c\dot{x}+kx = 0 \label{eq:one}
+m\ddot{x} + c\dot{x}+kx = 0 \label{eq:mkc}
 \end{equation}
 $$
 
-I refer you to Eq\eqref{eq:one}
+I refer you to Eq\eqref{eq:mkc}
 
 $$
 \begin{equation}
-E = mc^2 \tag{1}
+E = mc^2
 \end{equation}
 $$
 
@@ -84,11 +84,11 @@ $$
 
 $$
 \begin{equation}
-F = ma \label{eq:a}
+F = ma \label{eq:ma}
 \end{equation}
 $$
 
-此处引用公式 Eq\eqref{eq:mck2}.
+此处引用公式 Eq\eqref{eq:ma}.
 
 
 # 5. 代码高亮，图片显示
