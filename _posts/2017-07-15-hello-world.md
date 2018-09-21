@@ -46,7 +46,7 @@ mathjax:    true
 
 ## a. 段落内公式
 
-这是段落内的Latex数学公式测试，\int_a^b f(x)\,dx. 
+这是段落内的Latex数学公式测试，$\int_a^b f(x)\,dx$. 
 
 Does it work well?
 
@@ -54,7 +54,7 @@ Does it work well?
 
 有时候，需要的是段落间的Latex数学公式，比如下面的这个：
 
-F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx
+$F(x) = P\{ X <= x \} = \int_{-\infty}^x f(x)dx$
 
 Does it work well?
 
