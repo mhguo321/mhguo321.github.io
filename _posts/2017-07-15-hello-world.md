@@ -64,7 +64,7 @@ Does it work well?
 
 $$
 \begin{equation}
-m\ddot{x} + c\dot{x}+kx = 0 
+m\ddot{x} + c\dot{x}+kx = 0 \label{eq:one}
 \end{equation}
 $$
 
@@ -84,7 +84,7 @@ $$
 
 $$
 \begin{equation}
-F = ma \lable{eq:a}
+F = ma \label{eq:a}
 \end{equation}
 $$
 
